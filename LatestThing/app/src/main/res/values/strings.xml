@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LatestThing</string>
+    <string name="hello">Hello!</string>
+    <string name="facebook_app_id">441909416641192</string>
+    <string name="fb_login_protocol_scheme">fb441909416641192</string>
+    <string name="welcome">Welcome</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Do not have Account? Sign Up</string>
+    <string name="changelanguage">Change Language</string>
+</resources>
